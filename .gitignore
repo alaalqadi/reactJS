@@ -2,4 +2,4 @@
 
 #project files
 *.pyc
-*.xml
+*.idea/
